@@ -1,6 +1,7 @@
 # n8n-templates  
 
-A collection of **automation workflows** built for [n8n](https://n8n.io) — an open-source workflow automation tool. These templates are designed to help you quickly connect apps, process data, and automate repetitive tasks without needing to build everything from scratch.  
+A collection of cross-platform automation workflows designed in JSON format. While originally built for n8n
+, these templates can be adapted for other automation platforms as well, making it easier to connect apps, process data, and automate repetitive tasks without starting from scratch.
 
 ---
 
